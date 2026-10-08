@@ -1,0 +1,7 @@
+{
+  "name": "AeroMDS - Process to Mechanical Data Sheet & Technical Bid Evaluation Platform",
+  "description": "Production-grade AI decision-support platform for Process Data Sheet (PDS) to Mechanical Data Sheet (MDS) generation, source traceability, unit normalization, conflict detection, and Vendor Technical Bid Evaluation (TBE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
